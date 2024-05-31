@@ -1,2 +1,2 @@
-# sheCodesHomeworkwk6
+# myweatherapp
 Created with CodeSandbox
